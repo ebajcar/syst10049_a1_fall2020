@@ -1,6 +1,6 @@
+SYST10049 Web Development - Fall 2020
 # Assignment 1 instructions
-### SYST10049 Web Development - Fall 2020
----
+
 
 ## Mark up a letter
 Given the
