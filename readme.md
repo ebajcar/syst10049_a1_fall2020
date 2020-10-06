@@ -5,7 +5,7 @@ SYST10049 Web Development - Fall 2020
 ## Mark up a letter
 Given the
 * [output (how the page renders)]()
-* [actual content of the letter]()
+* [actual content of the letter](content.txt)
 * [starting HTML code with comments]()
 
 Use the comments to determine what the requirements are and implement by selecting semantically correct elements.
