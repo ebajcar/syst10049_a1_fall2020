@@ -31,4 +31,4 @@ Use the development process to create and publish the web project:
 
 > Web Development @ Sheridan College
 
-[editor on GitHub](https://github.com/ebajcar/syst10049_a1_fall2020/edit/gh-pages/index.md)
+
